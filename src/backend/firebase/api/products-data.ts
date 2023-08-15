@@ -58,8 +58,7 @@ const PRODUCTS_DATA = [
       {
         id: 7,
         name: "Galaxy A34 5G",
-        productImageUrl:
-          "https://imgtr.ee/images/2023/08/06/8e6a61182c5f19021c33e23680a94c1d.png",
+        productImageUrl: "https://i.ibb.co/2SvMqBf/galaxy-a34.png",
         price: 610,
         brand: "Samsung",
         category: "phone",
@@ -68,7 +67,7 @@ const PRODUCTS_DATA = [
         id: 8,
         name: "Galaxy A54 5G",
         productImageUrl:
-          "https://imgtr.ee/images/2023/08/06/f1e8315ee4eac3e11ab8e8ad86b71162.png",
+          "https://i.ibb.co/RPYnx5K/galaxy-a54.png",
         price: 999,
         brand: "Samsung",
         category: "phone",
@@ -77,7 +76,7 @@ const PRODUCTS_DATA = [
         id: 9,
         name: "Huawei P30",
         productImageUrl:
-          "https://imgtr.ee/images/2023/08/06/b59929133e78530b8463afc24a92d750.png",
+          "https://i.ibb.co/yVcDnCR/huawei-p30.png",
         price: 300,
         brand: "Huawei",
         category: "phone",
@@ -86,7 +85,7 @@ const PRODUCTS_DATA = [
         id: 10,
         name: "Apple14 Blue 128GB",
         productImageUrl:
-          "https://imgtr.ee/images/2023/08/06/50ea5b3bf1aee95183968e9766ecadf4.png",
+          "https://i.ibb.co/kxLJxKZ/apple14.png",
         price: 1599,
         brand: "Apple",
         category: "phone",
@@ -95,7 +94,7 @@ const PRODUCTS_DATA = [
         id: 11,
         name: "Galaxy Tab S8",
         productImageUrl:
-          "https://imgtr.ee/images/2023/08/06/5cf200c92dd65dbb1bec1c7efe75f2a3.png",
+          "https://i.ibb.co/dWZs1XF/galaxy-tab-s8.png",
         price: 1099,
         brand: "Samsung",
         category: "tab",
@@ -104,7 +103,7 @@ const PRODUCTS_DATA = [
         id: 12,
         name: "Galaxy Tab S9",
         productImageUrl:
-          "https://imgtr.ee/images/2023/08/06/cfb83fde34d63e9d4595299b0674f4be.png",
+          "https://i.ibb.co/z81SX7F/galaxytab-s9.png",
         price: 2099,
         brand: "Samsung",
         category: "tab",
@@ -113,7 +112,7 @@ const PRODUCTS_DATA = [
         id: 13,
         name: "Apple iPad 10.9",
         productImageUrl:
-          "https://imgtr.ee/images/2023/08/06/8a8d8d9546eb0944376e558a116591bf.png",
+          "https://i.ibb.co/gZ4HzxV/apple-ipad10.png",
         price: 899,
         brand: "Apple",
         category: "tab",
